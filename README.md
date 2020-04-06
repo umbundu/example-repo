@@ -12,3 +12,7 @@
 
 NOTICE THAT SO FAR THIS IS ALL LOCAL
 
+7. now let's push this to our remote repo
+    git push origin master
+
+
